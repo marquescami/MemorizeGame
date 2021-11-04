@@ -21,17 +21,8 @@ struct ContentView: View {
         }
     }
             .foregroundColor(.red)
-        Spacer()
-        HStack{
-            remove
-            Spacer()
-            add
+            .padding(.horizontal)
         }
-        .font(.largeTitle)
-        .padding()
-    }
-        .padding(.horizontal)
-       
 }
 var remove: some View{
     Button{
