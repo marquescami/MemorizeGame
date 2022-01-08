@@ -28,7 +28,7 @@ struct MemoryGame<CardContent> where CardContent: Equatable {
                 }
                 cards[chosenIndex].isFaceUp = true
             } else {
-               indexOfTheOneAndOnlyFaceUpCard = chosenIndex
+                indexOfTheOneAndOnlyFaceUpCard = chosenIndex
             }
         }
     }
@@ -62,3 +62,8 @@ extension Array {
         }
     }
 }
+
+
+
+
+

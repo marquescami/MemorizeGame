@@ -38,7 +38,7 @@ struct Cardify: ViewModifier {
         static let cornerRadius: CGFloat = 10
         static let linewidth: CGFloat = 3
     }
-
+    
 }
 
 extension View{
