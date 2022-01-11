@@ -1,4 +1,6 @@
-# Jogo da memória em Swift <img width="75" alt="Emoji" src="https://user-images.githubusercontent.com/31116694/148824721-6eb57ebd-c232-457d-b98c-f778c64fa240.png">
+# Jogo da memória em Swift <img width="75" alt="Emoji" src="https://user-images.githubusercontent.com/31116694/148824721-6eb57ebd-c232-457d-b98c-f778c64fa240.png"> <img width="50" alt= "swift" src="https://user-images.githubusercontent.com/31116694/148864090-05648457-07da-4834-bc3e-36e3e6782065.png">
+
+
 
 Meu primeiro aplicativo em Swift é um jogo da memória. O objetivo é encontrar as cartas semelhantes, o jogo termina quando você encontrar todos os pares. 
 
